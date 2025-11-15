@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "b2b-analytic-dashboard",
   "private": true,
   "scripts": {
     "build": "turbo run build",
